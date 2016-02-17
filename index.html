@@ -1,99 +1,106 @@
 <!doctype html>
 <html>
 	<head>
-		<title>
-			David Nuon
-		</title>
-	
-	<link rel="stylesheet" href="960.css" />
-	<link rel="stylesheet" href="style.css" />
-	
+		<title>David Nuon</title>
+        <meta name="viewport" content="initial-scale=1, maximum-scale=1">
+
+		<style>
+		body, html {
+			margin: 0;
+			padding: 0;
+		}
+
+		body {
+			background: #ddd;
+			font-family: sans-serif;
+		}
+
+		.card:before {
+			background: #fff;
+			width:220px;
+			height: 35px;
+			border-radius: 2px;
+			display: block;
+			content: '#tags-for-tags';
+
+			padding:10px 7px;
+			border-top:#F00000 4px solid;
+
+			position: absolute;
+			top: -23px;
+			left: 20px;
+		}
+
+		.card {
+			border-top:#F00000 4px solid;
+			position: relative;
+			width: 400px;
+			min-height: 150px;
+			height: auto;
+			margin: 100px auto 0 auto;
+			padding:20px;
+
+			text-align: center;
+
+			border-radius: 2px;
+			background: #fff;
+			box-shadow: rgba(0,0,0,.4) 0px 3px 5px;
+		}
+
+		.card h1 {
+			color:#f00000;
+			font-weight: normal;
+			text-align: center;
+			font-weight: 300;
+			font-size: 3em;
+			padding: 10px 0;
+			margin: 0;
+		}
+
+		.card ol {
+			margin: 0;
+			padding: 0;
+		}
+
+		.card ol li {
+			display: inline-block;
+			list-style: none;
+			margin: 0;
+			padding: 0;
+		}
+
+		.card ol li a {
+			display: block;
+			color:#333;
+			padding:6px 15px;
+			font-size:18px;
+
+			border-radius: 4px;
+		}
+
+		.card ol li a:hover {
+			background: #f00000;
+			color: #fff;
+		}
+
+		</style>
 	</head>
-
-
 	<body>
-	<div class="wrapper">
-		<header class="container_12">
-		<div class="grid_4 avatar_holder">
-			<img class="avatar" src="https://scontent-a.xx.fbcdn.net/hphotos-prn2/1382119_623079744380940_2021396083_n.jpg" alt="" />
-		</div>
-		<div class="grid_4">
-			<h1>David Nuon</h1>
-			<h2>Source Controller</h2>
-		</div>
-			<div class="grid_4">
-	<p>					
-	Coffee trailblazer. Beer aficionado. Alcohol buff. Passionate pop culture advocate.
-					</p>
-					<p>
-				<ul class="info">
-					<li>1425 Fake Address
-						<br/>Fake City, CA 9000</li>	
-					<li>fakeemail@gmail.com</li>
-					<li>555 - 555 - 5555</li>
-					<li>@commanderhashtagyolo</li>
-				</ul>
-			</div>
-		</header>
-
-			<section class="container_12">
-				<div class="grid_4">
-					<h3>Introduction</h3>
-				</div>
-				<div class="grid_8">
-					<p>
-						Polaroid Pinterest mumblecore, vinyl blog four loko organic authentic Tumblr cred banjo put a bird on it fingerstache. Salvia selfies hashtag, Carles Wes Anderson chambray sustainable you probably haven't heard of them Truffaut plaid Shoreditch.
-					</p>
-				</div>
-			</section>
-			
-			<section class="container_12">
-				<div class="grid_4">
-					<h3>Skills</h3>
-				</div>
-				<div class="grid_8">
-					<p><strong>
-					I have the skills that kill.
-					</p></strong>
-					<ul class="skills">
-						<li>Java</li>
-						<li>C++</li>
-						<li>C</li>
-						<li>MySQL</li>
-						<li>Software Engineering</li>
-					</ul>
-				</div>
-			</section>
-
-			<section class="container_12">
-				<div class="grid_4">
-					<h3>Education</h3>
-				</div>
-				<div class="grid_8">
-					<table>
-						<thead>
-							<tr>
-								<th>Year</th>
-								<th>School</th>
-							</tr>
-						</thead>
-						<tbody>
-							<tr>
-								<td>2010 - 2014</td>
-								<td>California State University of Long Beach</td>
-							</tr>
-						</tbody>
-					</table>
-				</div>
-			</section>
-			
-
-		<footer class="container_12">
-			&copy; 2013 Some Person
-		</footer>
-	</div>	
+		<div class="card">
+			<h1>Hi, I'm David.</h1>
+			<p>I make stuff sometimes.</p>
+			<hr>
+            <ol>
+		        <li>
+                    <a href="mailto:david@davidnuon.com">Email</a>
+                </li>
+                <li>
+                    <a href="http://twitter.com/davidnuon">@davidnuon</a>
+                </li>
+                <li>
+                    <a href="http://github.com/davidnuon">github</a>
+                </li>
+            </ol>
+            </div>
 	</body>
-
-
 </html>
-
