@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/davidnuon
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://davidnuon.com
+  * I am davidnuon (https://keybase.io/davidnuon) on keybase.
+  * I have a public key ASB5H2xI3KvorXgcsJR3mDNh-b3k7O35-N6Jep6JdYSjYAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120b11cdd6ca58504cdaa3a950dce6144ac2cb261b64f7631f08637c1abddb58d470a",
+      "host": "keybase.io",
+      "kid": "0120791f6c48dcabe8ad781cb09477983361f9bde4ecedf9f8de897a9e897584a3600a",
+      "uid": "7b1ff25b3478ab58340a8053d6940019",
+      "username": "davidnuon"
+    },
+    "merkle_root": {
+      "ctime": 1520977608,
+      "hash": "29e466798de24fc679aa4b4911a473173768c4a6c6a31b335fcd859204b543b34f490217b00a96df5a230d8744f4bc8081c8a5d13001eb33d59579e79bf5a1bd",
+      "hash_meta": "20a81c5d3632cfe8838895e60af8571df7182c9b4874c2469993e4064ff171f1",
+      "seqno": 2232149
+    },
+    "service": {
+      "hostname": "davidnuon.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.45"
+  },
+  "ctime": 1520977624,
+  "expire_in": 504576000,
+  "prev": "2a1ae85d02218f9158e6e9cea0f3c557c1c461974bcd3bb58c400eb638c1dbf3",
+  "seqno": 12,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgeR9sSNyr6K14HLCUd5gzYfm95Ozt+fjeiXqeiXWEo2AKp3BheWxvYWTFA0d7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwYjExY2RkNmNhNTg1MDRjZGFhM2E5NTBkY2U2MTQ0YWMyY2IyNjFiNjRmNzYzMWYwODYzN2MxYWJkZGI1OGQ0NzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNzkxZjZjNDhkY2FiZThhZDc4MWNiMDk0Nzc5ODMzNjFmOWJkZTRlY2VkZjlmOGRlODk3YTllODk3NTg0YTM2MDBhIiwidWlkIjoiN2IxZmYyNWIzNDc4YWI1ODM0MGE4MDUzZDY5NDAwMTkiLCJ1c2VybmFtZSI6ImRhdmlkbnVvbiJ9LCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTUyMDk3NzYwOCwiaGFzaCI6IjI5ZTQ2Njc5OGRlMjRmYzY3OWFhNGI0OTExYTQ3MzE3Mzc2OGM0YTZjNmEzMWIzMzVmY2Q4NTkyMDRiNTQzYjM0ZjQ5MDIxN2IwMGE5NmRmNWEyMzBkODc0NGY0YmM4MDgxYzhhNWQxMzAwMWViMzNkNTk1NzllNzliZjVhMWJkIiwiaGFzaF9tZXRhIjoiMjBhODFjNWQzNjMyY2ZlODgzODg5NWU2MGFmODU3MWRmNzE4MmM5YjQ4NzRjMjQ2OTk5M2U0MDY0ZmYxNzFmMSIsInNlcW5vIjoyMjMyMTQ5fSwic2VydmljZSI6eyJob3N0bmFtZSI6ImRhdmlkbnVvbi5jb20iLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC40NSJ9LCJjdGltZSI6MTUyMDk3NzYyNCwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsInByZXYiOiIyYTFhZTg1ZDAyMjE4ZjkxNThlNmU5Y2VhMGYzYzU1N2MxYzQ2MTk3NGJjZDNiYjU4YzQwMGViNjM4YzFkYmYzIiwic2Vxbm8iOjEyLCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQOo1VLImQc5AWJqntKxlmUx9+T+FD835QrENtKeXZTLrJakBZeU8AGP/ih9oM0n6rJdkD3wUTbECdfNJvaVWowqoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCAfn0z84V1h3+fy3hQILWUj6O6FXZDqy9jlbaoWilnPP6N0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/davidnuon
+
+==================================================================
